@@ -497,7 +497,7 @@ body {
 }
 
 .skill-card:nth-child(3) {
-    background-image: url(images/jswe.jpg);
+    background-image: url(images/js.webp);
 
     background-size: cover;
 
@@ -506,7 +506,7 @@ body {
 }
 
 .skill-card:nth-child(4) {
-    background-image: url(images/pythonqw.jpg);
+    background-image: url(images/python.webp);
 
     background-size: cover;
 
@@ -515,7 +515,7 @@ body {
 }
 
 .skill-card:nth-child(5) {
-    background-image: url(images/uiix.jpg);
+    background-image: url(images/ui.webp);
 
     background-size: cover;
 
